@@ -40,7 +40,7 @@ Simular um cenário real de testes em APIs, cobrindo validações funcionais, te
 ---
 
 ##  Estrutura do Projeto
-
+```bash
 qa-api-tests-portfolio/
 │
 ├── cypress/
@@ -58,7 +58,7 @@ qa-api-tests-portfolio/
 │
 ├── package.json
 └── README.md
-
+```
 ---
 
 ##  Como Executar o Projeto
