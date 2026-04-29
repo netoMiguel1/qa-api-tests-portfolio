@@ -62,9 +62,8 @@ qa-api-tests-portfolio/
 ---
 
 ##  Como Executar o Projeto
-
-1. Clone o repositório:
 ```bash
+1. Clone o repositório:
 git clone https://github.com/netoMiguel1/qa-api-tests-portfolio.git
 
 2. Acesse a pasta:
